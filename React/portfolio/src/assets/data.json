@@ -1,0 +1,28 @@
+  {
+    "projects": [
+      {
+        "date": "07/11/2023",
+        "title": "Blog App",
+        "description": "Developed a blog application using React.js for server-side rendering and Appwrite for data storage.",
+        "imgSrc": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "date": "15/01/2024",
+        "title": "Kanban",
+        "description": "Developed a Kanban board in ReactJS that allows users to manage tasks across different stages: To Do, In Progress, Peer Review, and Done",
+        "imgSrc": "https://plus.unsplash.com/premium_photo-1661963783275-dff88a0296f6?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "date": "01/03/2024",
+        "title": "Tour-Booking",
+        "description": "Developed a tour-booking website using React.js for server-side rendering and MongoDb for data storage.",
+        "imgSrc": "https://content.jdmagicbox.com/v2/comp/delhi/x7/011pxx11.xx11.240327200411.f8x7/catalogue/travel-booking-wala-dwarka-more-delhi-tour-packages-0sezb0rreq.jpg"
+      },
+      {
+        "date": "22/04/2024",
+        "title": "PORTFOLIO",
+        "description": "Developed a portfolio website using ReactJs",
+        "imgSrc": "https://i0.wp.com/curiositygym.com/wp-content/uploads/2022/05/portfolio1.jpg?fit=1920%2C1080&ssl=1"
+      }
+    ]
+  }
